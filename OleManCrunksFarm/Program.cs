@@ -10,6 +10,7 @@ namespace OleManCrunksFarm
     {
         static void Main(string[] args)
         {
+            new Farm().Run();
         }
     }
 }
